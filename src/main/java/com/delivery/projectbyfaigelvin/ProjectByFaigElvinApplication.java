@@ -8,8 +8,10 @@ public class ProjectByFaigElvinApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProjectByFaigElvinApplication.class, args);
-        System.out.println("first-run");
-        System.out.println("second-run");
+        System.out.println("1-run-f");
+        System.out.println("2-run-f");
+        System.out.println("3-run-f");
+        System.out.println("4-run-f");
     }
 
 }
