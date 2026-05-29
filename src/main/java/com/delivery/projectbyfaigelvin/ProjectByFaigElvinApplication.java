@@ -9,6 +9,7 @@ public class ProjectByFaigElvinApplication {
     public static void main(String[] args) {
         SpringApplication.run(ProjectByFaigElvinApplication.class, args);
         System.out.println("first-run");
+        System.out.println("second-run");
     }
 
 }
